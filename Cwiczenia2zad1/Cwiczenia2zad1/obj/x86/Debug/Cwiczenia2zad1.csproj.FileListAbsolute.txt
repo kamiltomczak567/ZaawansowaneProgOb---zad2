@@ -1,0 +1,4 @@
+C:\Users\K\Desktop\Cwiczenia2\Cwiczenia2zad1\Cwiczenia2zad1\bin\Debug\Cwiczenia2zad1.exe
+C:\Users\K\Desktop\Cwiczenia2\Cwiczenia2zad1\Cwiczenia2zad1\bin\Debug\Cwiczenia2zad1.pdb
+C:\Users\K\Desktop\Cwiczenia2\Cwiczenia2zad1\Cwiczenia2zad1\obj\x86\Debug\Cwiczenia2zad1.exe
+C:\Users\K\Desktop\Cwiczenia2\Cwiczenia2zad1\Cwiczenia2zad1\obj\x86\Debug\Cwiczenia2zad1.pdb

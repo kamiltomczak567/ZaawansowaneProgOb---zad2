@@ -1,0 +1,6 @@
+C:\Users\K\AppData\Local\Temporary Projects\Cw2zad2\bin\Debug\Cw2zad2.exe
+C:\Users\K\AppData\Local\Temporary Projects\Cw2zad2\bin\Debug\Cw2zad2.pdb
+C:\Users\K\AppData\Local\Temporary Projects\Cw2zad2\obj\x86\Debug\Cw2zad2.exe
+C:\Users\K\AppData\Local\Temporary Projects\Cw2zad2\obj\x86\Debug\Cw2zad2.pdb
+C:\Users\K\Desktop\Cwiczenia2\Cw2zad2\Cw2zad2\obj\x86\Debug\Cw2zad2.exe
+C:\Users\K\Desktop\Cwiczenia2\Cw2zad2\Cw2zad2\obj\x86\Debug\Cw2zad2.pdb

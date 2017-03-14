@@ -1,0 +1,4 @@
+C:\Users\K\AppData\Local\Temporary Projects\Cwiczenia2\bin\Debug\Cwiczenia2.exe
+C:\Users\K\AppData\Local\Temporary Projects\Cwiczenia2\bin\Debug\Cwiczenia2.pdb
+C:\Users\K\AppData\Local\Temporary Projects\Cwiczenia2\obj\x86\Debug\Cwiczenia2.exe
+C:\Users\K\AppData\Local\Temporary Projects\Cwiczenia2\obj\x86\Debug\Cwiczenia2.pdb
